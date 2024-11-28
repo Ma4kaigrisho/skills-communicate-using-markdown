@@ -6,3 +6,7 @@ var myVar = "Hello, world!";
 ``` python
 greeting = "Hello world!"
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Create my first project
